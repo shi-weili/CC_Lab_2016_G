@@ -25,5 +25,5 @@ CRN: 3263 - PGTE 5250 – D, Tuesday 7:00 pm - 9:40 pm, 6 East 16th Street 1200
 ##### Miri Park (miri@newschool.edu)
 CRN: 3381 - PGTE 5250 – E, Thursday 7:00 pm - 9:40 pm, 6 East 16th Street 1002
 ##### Weili Shi (weili@newschool.edu)
-CRN: 4905 - PGTE 5250 - G Thursday 7:00 pm - 9:40 pm, 63 5th Ave L101 (lower level)
+CRN: 4905 - PGTE 5250 - G Thursday 7:00 pm - 9:40 pm, 6 East 16th Street 605
 
