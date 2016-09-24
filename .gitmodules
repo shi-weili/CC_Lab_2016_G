@@ -28,9 +28,6 @@
 [submodule "Ying_Jiang"]
 	path = Ying_Jiang
 	url = https://github.com/mitiaokk/ying_jiang_cclab.git
-[submodule "Chuyi_Sun"]
-	path = Chuyi_Sun
-	url = https://github.com/Chuyi999/chuyi_sun_cclab.git
 [submodule "Madison_Dailey"]
 	path = Madison_Dailey
 	url = https://github.com/Ciaomadison/madison_dailey_cclab.git
