@@ -31,3 +31,6 @@
 [submodule "Madison_Dailey"]
 	path = Madison_Dailey
 	url = https://github.com/Ciaomadison/madison_dailey_cclab.git
+[submodule "Chuyi_Sun"]
+	path = Chuyi_Sun
+	url = https://github.com/Chuyi999/chuyi_sun_cclab.git
